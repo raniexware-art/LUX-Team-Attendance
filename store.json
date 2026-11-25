@@ -1,0 +1,229 @@
+{
+  "admins": [
+    {
+      "id": "5623f88b-0664-4bfc-b68b-1a13e2782053",
+      "username": "LUX",
+      "passwordHash": "0f22d000381c71bcc8bbc2ee457598fb:21d1f4f60429013d1e266a1a26de86357f1d525abafecbfeb52d4d2a5b3be2e39c713223b41d378b83fed786dbeac095792f7eabafa23f0e2f60e8dae09b2757",
+      "name": "LUX",
+      "recoveryHash": null
+    }
+  ],
+  "employees": [
+    {
+      "id": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "employeeId": "RAGHUL2005",
+      "name": "RAGHUL.R",
+      "passwordHash": "9d0b0027540cd20127c9b0b4cd756733:eeff386ed3bee63c6a6a9a21c193ce1840291adca39c90c2f1191715a9f921a439f067dfacc8c77e02209275614bfc76727cf91e3ed5e459bad231454cda19ea"
+    }
+  ],
+  "attendance": [
+    {
+      "id": "72135545-75d7-46e9-b209-3eed8e7ccd61",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-in",
+      "at": "2026-11-19T09:51:46.388Z"
+    },
+    {
+      "id": "28e26724-fd6a-48bc-a883-73948f753a45",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-out",
+      "at": "2026-11-19T09:51:50.171Z"
+    },
+    {
+      "id": "5036b588-5cf8-410b-a671-9f4f5acb2f42",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-in",
+      "at": "2026-11-19T10:06:59.135Z"
+    },
+    {
+      "id": "988ee8fd-4be1-46e1-b382-2909ee44c72c",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-out",
+      "at": "2026-11-19T10:07:02.708Z"
+    },
+    {
+      "id": "f6d594ec-7c04-4458-aa5c-ae88b611167c",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-in",
+      "at": "2026-11-19T12:11:16.535Z"
+    },
+    {
+      "id": "e02c53d8-9619-4b05-97c8-c43aa11d3c1c",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-out",
+      "at": "2026-11-19T12:11:17.540Z"
+    },
+    {
+      "id": "00e019ac-60b5-4775-a8f3-dc17e4d36ae0",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-in",
+      "at": "2026-11-19T12:37:35.846Z"
+    },
+    {
+      "id": "7e7b8b30-90a4-4eb9-89be-8833ef3b6a66",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-out",
+      "at": "2026-11-19T12:37:37.251Z"
+    },
+    {
+      "id": "cd855b9f-0faf-4e57-b107-8be91dc0f287",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-in",
+      "at": "2026-11-19T12:37:47.286Z"
+    },
+    {
+      "id": "f8fbbfe4-2dc2-462a-b680-15377b2c1f3d",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-out",
+      "at": "2026-11-19T12:37:47.972Z"
+    },
+    {
+      "id": "fd3db7e4-16da-4c29-8347-a573b2d3ea1c",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-in",
+      "at": "2026-11-19T12:38:13.239Z"
+    },
+    {
+      "id": "81601aa1-71db-4195-bdd8-e18009bdd584",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-out",
+      "at": "2026-11-19T12:38:14.036Z"
+    },
+    {
+      "id": "ca032047-62c4-4fc3-9a61-42ac13fa9fb6",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-in",
+      "at": "2026-11-19T12:38:14.736Z"
+    },
+    {
+      "id": "5afe5e79-42a3-44ce-bb60-a46141989525",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-out",
+      "at": "2026-11-19T12:38:16.562Z"
+    },
+    {
+      "id": "98d2487a-b8ac-4e2f-a7d1-fe89b67e2936",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-in",
+      "at": "2026-11-21T08:40:12.768Z"
+    },
+    {
+      "id": "dd31c4c2-c3ef-44b7-8f12-9775338a2ae7",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-out",
+      "at": "2026-11-21T11:06:34.527Z"
+    },
+    {
+      "id": "b1ed918c-fe28-40d7-a31e-b8754fcbefd0",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-in",
+      "at": "2026-11-23T05:27:21.759Z",
+      "reason": "bus late"
+    },
+    {
+      "id": "ea3d5ee5-31e9-4304-83ff-a473dbf31a77",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-out",
+      "at": "2026-11-23T05:30:45.449Z"
+    },
+    {
+      "id": "e5f0cfe8-fa89-496e-8191-271e1a7a825b",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-in",
+      "at": "2026-11-23T09:03:00.813Z"
+    },
+    {
+      "id": "bcdc8bf8-b546-470b-8518-6f0a12419b28",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-out",
+      "at": "2026-11-23T09:14:05.827Z"
+    },
+    {
+      "id": "aa0b40de-3a15-43ee-9a7c-262901850e3d",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-in",
+      "at": "2026-11-23T09:15:29.328Z"
+    },
+    {
+      "id": "cd65e2c2-97d5-405b-b56e-60cfc1750d79",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-out",
+      "at": "2026-11-23T09:29:15.494Z"
+    },
+    {
+      "id": "55d81c83-92b1-4d8a-b18e-1c3f3f0df728",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-in",
+      "at": "2026-11-24T06:09:50.930Z",
+      "reason": "bus"
+    },
+    {
+      "id": "5b8c65f3-37cf-468c-b767-cc171b0fb85c",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-out",
+      "at": "2026-11-24T06:30:31.107Z"
+    },
+    {
+      "id": "2c5ca4f9-515c-4239-be71-91ae806eb0d3",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-in",
+      "at": "2026-11-24T06:44:53.820Z"
+    },
+    {
+      "id": "bc192f23-c5b3-49ab-aad4-24d3ffe73818",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-out",
+      "at": "2026-11-24T06:44:57.363Z"
+    },
+    {
+      "id": "f2a2594a-059e-4533-877b-c8f4cfddca59",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-in",
+      "at": "2026-11-24T09:53:23.061Z"
+    },
+    {
+      "id": "c51c95a8-923a-4417-b8a4-84bd00899d2f",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-out",
+      "at": "2026-11-25T05:14:57.315Z"
+    },
+    {
+      "id": "e6c14b16-8fda-445a-b6ac-8aefd72d6c53",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-in",
+      "at": "2026-11-25T05:15:05.733Z"
+    },
+    {
+      "id": "103686a1-09c1-45fe-bdb5-12ede2b67901",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "check-out",
+      "at": "2026-11-25T05:15:06.898Z"
+    }
+  ],
+  "leaves": [
+    {
+      "id": "62a5b527-53f8-43d3-aa37-df925b432925",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "Casual",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-03",
+      "reason": "vjvknnvsbs jbsnak",
+      "status": "cancelled",
+      "createdAt": "2026-11-21T08:39:51.876Z",
+      "reviewedAt": "2026-11-21T08:41:03.951Z",
+      "cancelledAt": "2026-11-23T05:36:48.487Z"
+    },
+    {
+      "id": "838687cb-178e-4b35-87c9-e3358b81a942",
+      "employeeId": "195cb7b6-d62d-40c2-930a-5c1dbc79c5e7",
+      "type": "Other",
+      "startDate": "2026-11-24",
+      "endDate": "2026-11-24",
+      "reason": "fbfsnf",
+      "status": "cancelled",
+      "createdAt": "2026-11-23T12:03:45.308Z",
+      "reviewedAt": null,
+      "cancelledAt": "2026-11-23T12:03:56.681Z"
+    }
+  ]
+}
